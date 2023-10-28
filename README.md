@@ -1,7 +1,7 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=valdemarvictorleitecarvalho&show_icons=true&theme=radical"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdemarvictorleitecarvalho&layout=pie)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img align="right" height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
 <br>
 
@@ -20,9 +20,9 @@
     
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>We are what we repeatedly do, therefore, excellence is not an act, but a habit.</i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+   <i>The beginning is the most important part of the work.</i>
    <br>
 <br>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
@@ -30,7 +30,6 @@
 <a target="_blank" href="valdemar.victor.leite.carvalho@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/valdemarvictorcarvalho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-
 <br>
 </p>       
 </div>
