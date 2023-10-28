@@ -1,3 +1,12 @@
+### What's up, everyone? 👋 I'm Valdemar Victor Leite Carvalho,
+
+Computer Science undergraduate putting effort to be his best version and impact the world around him. Creative and proactive, software and hardware technology enthusiast, who believes in education. 💻:. I like coding, compete, automating, improving and optimizing systems. I am a strong advocate for 📜 Open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation, Automation :robot: and what can improve the world.
+
+- 🌱 I’m currently pursuing **Computer Science's Degree in Federal University of Campina Grande, Paraíba, Brazil**
+- ⚡ **Fun fact:** I **strongly** try to learn a lot of languagens when I can, my goal is to be a polyglot one day
+- :bulb: I'm interested in all things that envolves technology, especially: **Software Engineering (BackEnd and FrontEnd), Big Data Cloud, Machine Learning and Data Science**
+- 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime/Mangas, Movies 🎥, Games 🎮, Painting and Music 🖼️🎼
+
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=valdemarvictorleitecarvalho&show_icons=true&theme=radical"/>
