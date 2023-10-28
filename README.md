@@ -10,14 +10,14 @@ Computer Science undergraduate putting effort to be his best version and impact 
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=valdemarvictorleitecarvalho&show_icons=true&theme=radical"/>
-  <img align="right" height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdemarvictorleitecarvalho&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Principais Tecnologias</h1>
+    <h1 align="center">Main Technologies</h1>
     <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
     <img align="center" height="30" width="40" alt="linux-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg">
