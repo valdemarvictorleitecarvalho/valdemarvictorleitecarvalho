@@ -41,7 +41,7 @@ Computer Science undergraduate putting effort to be his best version and impact 
    <br>
 <br>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
-<a target="_blank" href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/valdemar-carvalho-815408334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:valdemar.victor.leite.carvalho@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://discord.com/users/valdemarvictor"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/valdemarvictorcarvalho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
