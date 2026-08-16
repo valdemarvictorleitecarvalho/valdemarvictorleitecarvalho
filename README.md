@@ -28,7 +28,7 @@ Computer Science undergraduate putting effort to be his best version and impact 
    
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,cpp,mongodb,mysql,linux,git,vim" />
+      <img src="https://skillicons.dev/icons?i=react,ts,nestjs,prisma,jest,java,python,docker,aws,gcp,linux" />
     </a>
   </p>
 </div>
