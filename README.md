@@ -44,13 +44,7 @@ A Computer Science undergraduate at the Federal University of Campina Grande (UF
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdemarvictorleitecarvalho&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Valdemar's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdemarvictorleitecarvalho&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Valdemar's Top Languages"/>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valdemarvictorleitecarvalho&theme=tokyonight&hide_border=true" alt="Valdemar's GitHub Streak"/>
+  <img src="github-metrics.svg" alt="Valdemar's GitHub Metrics" width="100%">
 </div>
 
 ---
