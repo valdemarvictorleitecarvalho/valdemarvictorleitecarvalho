@@ -44,7 +44,7 @@ A Computer Science undergraduate at the Federal University of Campina Grande (UF
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Valdemar's GitHub Metrics" width="750">
+  <img src="https://raw.githubusercontent.com/valdemarvictorleitecarvalho/valdemarvictorleitecarvalho/main/github-metrics.svg#gh-light-mode-only" alt="Valdemar's GitHub Metrics" width="750">
 </div>
 
 ---
